@@ -1,0 +1,7 @@
+{
+  "name": "Authos - Authentic AI Creator",
+  "description": "A personal AI writing platform that learns your voice, stories, and beliefs to create authentic content.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
