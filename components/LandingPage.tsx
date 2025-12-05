@@ -74,7 +74,7 @@ export const LandingPage: React.FC<LandingPageProps> = ({ onStart, language, set
                 <span className="text-[10px] font-mono uppercase tracking-widest font-bold text-zinc-500">System Online</span>
             </div>
             
-            <h1 className="text-4xl md:text-7xl font-bold tracking-tighter mb-8 leading-[0.9] uppercase">
+            <h1 className="text-4xl md:text-7xl font-bold tracking-tighter mb-8 leading-[0.9] uppercase text-yellow-500">
                 {t.heroTitle}
             </h1>
             
